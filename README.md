@@ -1,5 +1,5 @@
 
-![Header](https://github.com/anmutechsupport/anmutechsupport/blob/main/Anush%20Mutyala.png "Header")
+[Header](https://github.com/anmutechsupport/anmutechsupport/blob/main/Anush%20Mutyala.png "Header")
 
 ### Hi there 👋
 
